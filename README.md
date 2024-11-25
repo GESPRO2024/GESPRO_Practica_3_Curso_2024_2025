@@ -1,3 +1,4 @@
 Nombre de los compañeros
-Javier García Sáez
-Lydia Blanco Ruiz
+Javier García Sáez,
+Lydia Blanco Ruiz,
+Beatriz Llorente Garcia
