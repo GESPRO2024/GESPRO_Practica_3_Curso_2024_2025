@@ -116,4 +116,20 @@ El ultimo commit sería Convert annex A to latex 179.
 ![image](https://github.com/user-attachments/assets/9c957d0e-bf91-4b4d-a85b-2e80a592b1fb)
 
 
+### La información del proyecto de Github obtenida desde la opción de menú "Insights→Pulse"
+En la siguiente imagen podemos ver todas las contribuciones al proyecto por parte de los miembros
+
+![Sin título](https://github.com/user-attachments/assets/9a05fb69-2720-400c-be89-dc76d4d2a4a2)
+
+### La información del proyecto de Github obtenida desde la opción menú "Insights→ Code frequency"
+En la siguiente imagen podemos ver un gráfico que indica las variaciones en el código a lo largo del desarrollo del proyecto
+
+![Sin título](https://github.com/user-attachments/assets/d169a580-7053-46fc-a9c4-33205b540033)
+
+### Captura con la relación de las PRQs realizadas cerradas
+En la siguiente imagen podemos ver todas las Pull Requests realizadas y cerradas.
+
+![Sin título](https://github.com/user-attachments/assets/0a28cfc6-26b1-4e2c-8ade-127a2504cc14)
+
+
 
