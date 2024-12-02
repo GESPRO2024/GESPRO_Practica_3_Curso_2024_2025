@@ -100,3 +100,20 @@ Una vez realizado el pull vemos que ya no aparecen las flechas de actualización
 
 ![Imagen de WhatsApp 2024-12-02 a las 10 01 01_31c1e30d](https://github.com/user-attachments/assets/d40c3167-1b13-49bd-a0a6-f4394761d7e4)
 
+### Gráfico obtenido con una captura de pantalla con la lista de commits del repositorio
+Como podemos ver en la imagen los commits del repositorio mantiene la estuctura explicada en la practica:
+
+![Imagen de WhatsApp 2024-12-02 a las 09 34 55_2321c514](https://github.com/user-attachments/assets/192a92b4-1b92-4f03-ace2-08dc0857b79a)
+
+### Captura de pantalla del primer commit
+El primer commit sería Add cd cover 173.
+
+![image](https://github.com/user-attachments/assets/b984429f-c1b9-440b-bbd5-92de7f77b3b7)
+
+### Captura de pantalla del último commit
+El ultimo commit sería Convert annex A to latex 179.
+
+![image](https://github.com/user-attachments/assets/9c957d0e-bf91-4b4d-a85b-2e80a592b1fb)
+
+
+
